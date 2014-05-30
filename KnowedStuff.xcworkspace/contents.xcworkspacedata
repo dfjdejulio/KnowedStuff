@@ -1,4 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Workspace
    version = "1.0">
+   <FileRef
+      location = "group:Knowed/Knowed.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Knowed-Workbench/Knowed Workbench.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:KnowedPad/KnowedPad.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:knowedsh/knowedsh.xcodeproj">
+   </FileRef>
 </Workspace>
