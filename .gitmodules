@@ -1,0 +1,12 @@
+[submodule "Knowed"]
+	path = Knowed
+	url = git@github.com:dfjdejulio/Knowed.git
+[submodule "KnowedPad"]
+	path = KnowedPad
+	url = git@github.com:dfjdejulio/KnowedPad.git
+[submodule "Knowed-Workbench"]
+	path = Knowed-Workbench
+	url = git@github.com:dfjdejulio/Knowed-Workbench.git
+[submodule "knowedsh"]
+	path = knowedsh
+	url = git@github.com:dfjdejulio/knowedsh.git
